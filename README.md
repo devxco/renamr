@@ -1,0 +1,2 @@
+# renamr
+rename bash script
